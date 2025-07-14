@@ -1,0 +1,24 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #1e3a8a;
+}
+.header, .footer {
+  background-color: #1e40af;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+section {
+  padding: 2rem;
+  border-bottom: 1px solid #bfdbfe;
+}
+.hero {
+  background: linear-gradient(to right, #eff6ff, #dbeafe);
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
